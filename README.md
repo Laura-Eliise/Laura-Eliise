@@ -23,7 +23,7 @@ I work with a variety of technologies and tools. Here are some of my favorites:
 - **Web Development**: 
   - Frontend: HTML, CSS, JavaScript, Vue
   - Backend: Golang, Node.js
-  - Databases: MySQL
+  - Databases: MySQL, SQLite3
   - Other: Docker, Git
 
 ## 🌟 Projects
